@@ -7,6 +7,16 @@ const app = express();
 const port = 3000;
 const campgrounds = [
   { name: "Camping do Mazinho", image: "https://campingdomazinho.com.br/wp-content/uploads/2019/12/camping-mazinho-02.jpg" },
+  { name: "Saltão Parque de Ecoturismo", image: "https://www.saltao.com.br/wp-content/uploads/2015/01/camping-saltao-2-876x357.jpg" },
+  { name: "Camping do Mazinho", image: "https://campingdomazinho.com.br/wp-content/uploads/2019/12/camping-mazinho-02.jpg" },
+  { name: "Saltão Parque de Ecoturismo", image: "https://www.saltao.com.br/wp-content/uploads/2015/01/camping-saltao-2-876x357.jpg" },
+  { name: "Camping do Mazinho", image: "https://campingdomazinho.com.br/wp-content/uploads/2019/12/camping-mazinho-02.jpg" },
+  { name: "Saltão Parque de Ecoturismo", image: "https://www.saltao.com.br/wp-content/uploads/2015/01/camping-saltao-2-876x357.jpg" },
+  { name: "Camping do Mazinho", image: "https://campingdomazinho.com.br/wp-content/uploads/2019/12/camping-mazinho-02.jpg" },
+  { name: "Saltão Parque de Ecoturismo", image: "https://www.saltao.com.br/wp-content/uploads/2015/01/camping-saltao-2-876x357.jpg" },
+  { name: "Camping do Mazinho", image: "https://campingdomazinho.com.br/wp-content/uploads/2019/12/camping-mazinho-02.jpg" },
+  { name: "Saltão Parque de Ecoturismo", image: "https://www.saltao.com.br/wp-content/uploads/2015/01/camping-saltao-2-876x357.jpg" },
+  { name: "Camping do Mazinho", image: "https://campingdomazinho.com.br/wp-content/uploads/2019/12/camping-mazinho-02.jpg" },
   { name: "Saltão Parque de Ecoturismo", image: "https://www.saltao.com.br/wp-content/uploads/2015/01/camping-saltao-2-876x357.jpg" }
 ];
 
